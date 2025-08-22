@@ -1,6 +1,6 @@
 # LocalEats 
 
-**Live App Demo Link:** [Zomato Clone Live App Demo](https://zomatoclone.koushilmankali.in/)
+**Live App Demo Link:** [Zomato Clone Live App Demo](https://local-eats-sand.vercel.app/)
 
 LocalEats is a online food ordering application, I made a LocalEats using React Js, Zomato Frontend clone using React Js.
 
