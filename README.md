@@ -46,7 +46,7 @@ LocalEats is a online food ordering application, I made a LocalEats using React 
 
 # Home Page:
 
-<img src="Project Images/Home.png" />
+<img src="Project Images/local-eats-sand.vercel.app_ (1).png" />
 
 
 # Add Restaurant Page:
