@@ -51,7 +51,7 @@ LocalEats is a online food ordering application, I made a LocalEats using React 
 
 # Add Restaurant Page:
 
-<img src="Project Images/local-eats-sand.vercel.app_add-restaurant.png />
+<img src="Project Images/local-eats-sand.vercel.app_add-restaurant.png" />
 
 
 # Order Online Page:
@@ -61,11 +61,11 @@ LocalEats is a online food ordering application, I made a LocalEats using React 
 
 # User Profile Page:
 
-<img src="local-eats-sand.vercel.app_user_ll_reviews.png" />
+<img src="Project Images/local-eats-sand.vercel.app_user_ll_reviews.png" />
 
 
 # Hotel Order Page:
 
-<img src="local-eats-sand.vercel.app_hyderabad_paraside_order.png" />
+<img src="Project Images/local-eats-sand.vercel.app_hyderabad_paraside_order.png" />
 
 
